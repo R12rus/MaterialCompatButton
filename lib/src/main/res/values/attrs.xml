@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MaterialCompatButton">
+        <attr name="android:drawableStart"/>
+        <attr name="android:drawableEnd"/>
+        <attr name="android:drawableTop"/>
+        <attr name="android:drawableBottom"/>
+    </declare-styleable>
+
+</resources>
